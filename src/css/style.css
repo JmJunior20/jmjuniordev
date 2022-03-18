@@ -176,6 +176,14 @@ button {
   background: rgba(245, 245, 245, 1);
 }
 
+
+/* Sobre */
+.about-item {
+  text-align: center;
+  margin: 1.5rem 0;
+  pad: 1.5rem;
+}
+
 /* #### Media Queries #### */
 @media screen and (min-width: 992px) {
     .container{
