@@ -316,6 +316,27 @@ button {
   color: var(--midDark);
 }
 
+/* Contato */
+.contact {
+  background: var(--lightGrey);
+}
+.contact-info {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.contact-info-item {
+  flex: 0 0 100%;
+  text-align: center;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+.contact-info-item span {
+  font-size: 2rem;
+  color: var(--dark);
+}
+
 /* #### Media Queries #### */
 
 @media screen and (min-width: 768px) {
@@ -340,6 +361,9 @@ button {
   }
   .servicos-item {
     flex: 0 0 50%;
+  }
+  .contact-info-item {
+    flex: 0 0 33.33%;
   }
 }
 
