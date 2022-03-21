@@ -368,6 +368,14 @@ button {
 .footer-icon-item:hover {
   background: var(--red);
 }
+.footer-text {
+  text-align: center;
+  background: var(--dark);
+  padding: 2.4rem;
+}
+.footer-text .text-light {
+  color: white;
+}
 
 /* #### Media Queries #### */
 
