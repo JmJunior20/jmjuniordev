@@ -1,5 +1,3 @@
-# jmjuniordev
-JmJunior - Desenvolvedor Web
 # JmJunior - Desenvolvedor Web
 
 ![preview](./.github/preview.png)
@@ -8,7 +6,7 @@ JmJunior - Desenvolvedor Web
 
 Projeto de portfólio construído para praticar conhecimentos em desenvolvimento web e para divulgar alguns projetos criados.
 
-[Cliquei aqui para acessar](https://jmjunior20.github.io/nlw_esports/)
+[Cliquei aqui para acessar](https://jmjuniordeveloper.netlify.app/)
 
 ## 🛠️ Tecnologias
 
