@@ -17,8 +17,10 @@ Projeto de portfólio construído para praticar conhecimentos em desenvolvimento
 
 ## 🖤 Contato
 
-jmjuniormonteiro@gmail.com
+https://jmjuniordeveloper.netlify.app/
 
 https://www.linkedin.com/in/jmjuniordeveloper/
 
 https://www.instagram.com/jmjuniordeveloper/
+
+jmjuniormonteiro@gmail.com
